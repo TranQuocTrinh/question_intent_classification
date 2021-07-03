@@ -1,0 +1,186 @@
+Utterance,Intent
+i did not get any email confirmation and cannot log in to my account with <email>,account_information
+Can you check if I registered the correct email address <email>,account_information
+"I am locked out of my account, can you help?",account_information
+"I forgot my login information, can you help?",account_information
+What is my username?,account_information
+How to find username?,account_information
+What is my password?,account_information
+Can you reset my password?,account_information
+I wanna buy tickets for <keyword> <time> for <number_of_people>.,book_tour
+I want tickets for <keyword>.,book_tour
+"Please, book a <keyword> tour for <number_of_people> at <time>",book_tour
+I need <keyword> tickets for <date>,book_tour
+I am interested in booking the <keyword>,book_tour
+I would like to book <keyword> for <date>,book_tour
+When is next available time slot for <keyword>?,book_tour
+I want a tour on <keyword>,book_tour
+Top rated tour for <keyword>,book_tour
+Top recommended tour for <keyword>,book_tour
+Tell me more about <location>.,"describe_location, recommend_poi"
+Tell me funny facts about <location>.,"describe_location, recommend_poi"
+Show me top attractions <location>.,"describe_location, recommend_poi"
+What are things to consider in this area?,"describe_location, recommend_poi"
+Is this area safe?,"describe_location, recommend_poi"
+What are the top things to do in <location>?,"describe_location, recommend_poi"
+How far is <location> away from <location>?,generic_request
+What is the fastest way to get to <location>?,generic_request
+Are there any toll roads on the way to <location>?,generic_request
+Are there any toll bridges on the way to <location>?,generic_request
+Is there parking near <location>?,generic_request
+Hello? Are you here?,needs_assistance
+Why aren't you responding?,needs_assistance
+Hey!,needs_assistance
+Can I talk to someone?,needs_assistance
+I need some assistance,needs_assistance
+I would like to talk to a person.,needs_assistance
+What is the contact info?,needs_assistance
+What can I do in <location> <time>?,recommend_activity
+What should I do <time>?,recommend_activity
+Recommend me something <time>?,recommend_activity
+What are the best <keyword> in town?,recommend_activity
+We are looking for a tour <number_of_people> <location> <time>.,recommend_activity
+I want to book <keyword>,recommend_activity
+I want to book <restaurant>,recommend_activity
+I’m looking for the good <keyword> in <location> with budget around <budget> for <time>.,recommend_activity
+Find me some <keyword> that's available  on <date> in <location>,recommend_activity
+Find me some <keyword> that's under <budget> and available  on <date> in <location>,recommend_activity
+Show me some <keyword> that's under <budget> and available  on <date> in <location>,recommend_activity
+What are things to do under <budget>?,recommend_activity
+recommended <keyword> to do by car,recommend_activity
+Fun activities for kids,recommend_activity
+I'm going to <location> <time>. I like <keyword>. My budget is <budget>. What should I do?,recommend_activity
+I would like to see <location>,recommend_activity
+I'm looking for a <duration> trip from <location> to nearby <location>,recommend_activity
+Looking for a <duration> trip to have some <keyword> from <location>,recommend_activity
+Can you please show me a nice place in <location>?,recommend_activity
+Hi: I am traveling with my family in <location> on <date> and was looking for a great <keyword> tour,recommend_activity
+What's fun around here?,"recommend_activity, recommend_poi"
+Show me the most <adjective> sites on tourmega,"recommend_activity, recommend_poi"
+I want to go <country>,"recommend_activity, recommend_poi"
+I want to book the <keyword> for <date> in <location> for <number_of_people>,"recommend_activity, recommend_poi"
+Can you please assist to quote for the following <keyword>,"recommend_activity, recommend_poi"
+Top recommended activity,"recommend_activity, recommend_poi"
+Must do things in <location>,"recommend_activity, recommend_poi"
+Top locations for kids,recommend_poi
+Top places to see in <keyword> (month),recommend_poi
+Show me the most <adjective> sites,recommend_poi
+Show me hidden gems,recommend_poi
+Show me hidden locations,recommend_poi
+Locations with less people,recommend_poi
+Show me less crowded locations,recommend_poi
+I'm looking for festivals,recommend_poi
+Where is <keyword> festival?,recommend_poi
+Where can I find <keyword> food?,recommend_poi
+Show me best restaurants,recommend_poi
+Show me best restaurants for <keyword> food,recommend_poi
+Top recommended <keyword> food,recommend_poi
+Top recommended <keyword> restaurant,recommend_poi
+Top rated <keyword> food,recommend_poi
+Top rated <keyword> restaurant,recommend_poi
+I want <keyword> food,recommend_poi
+I WOULD like to make a reservation please,reservation_inquiry
+How do i make a reservation?,reservation_inquiry
+I would like to make table reservation at <restaurant>,reservation_inquiry
+I need to make a group reservation at <restaurant>,reservation_inquiry
+"I need the bill copy of a purchase made by my boss, can you help me?",reservation_inquiry
+I need the bill copy of a purchase made by my boss.,reservation_inquiry
+I need the bill copy of a purchase.,reservation_inquiry
+I need the bill copy of a reservation.,reservation_inquiry
+I need the copy of a bill of a purchase.,reservation_inquiry
+I didn't receive a receipt,reservation_inquiry
+When is my reservation for <keyword>?,reservation_inquiry
+Is this a confirmed reservation if we pay?,reservation_regulations
+we would like to make a reservation at <restaurant>. Why are we being charged to take a tour,reservation_regulations
+"Hi, if the request is not fulfilled for <restaurant>, will the cost be refunded?",reservation_regulations
+Is this a sure reservation?,reservation_regulations
+Please explain if you are unable to secure reservation do you do a full refund?,reservation_regulations
+I want to know the process little more careful and wonder if there are the backup for the payment if the reservation was a scam,reservation_regulations
+How soon will I find out if the reservation is successful or not?,reservation_regulations
+Can you please confirm by <time>,reservation_update_request
+I sent an email to support about reservation <confirmation_code>,reservation_update_request
+I am trying to figure out if my reservation is confirmed.,reservation_update_request
+"Hi I just sent an email to support, but was hoping to get some update about our reservation.",reservation_update_request
+Hi. i have made the following booking <confirmation_code>. I want to check the status of my booking,reservation_update_request
+Is <restaurant> kid friendly?,restaurant_inquiry
+When does <restaurant> close?,restaurant_inquiry
+Does <restaurant> have booster seats for kids?,restaurant_inquiry
+Does <keyword> offer delivery?,restaurant_inquiry
+Need reservation for <number_of_people> at <restaurant> on <date> at <time>,restaurant_inquiry
+How expensive is <restaurant>?,restaurant_inquiry
+I want to make a reservation for <number_of_people> for <lunch_or_dinner> on <date> <time> at <restaurant>,restaurant_inquiry
+I successfully made a reservation with a restaurant in <location> but there's no actual time on the booking?,restaurant_inquiry
+How late can I cancel my reservation at <restaurant>?,restaurant_inquiry
+Are you able to get a reservation at <restaurant>,restaurant_inquiry
+"Hello, is it possible to pay extra for a seat at <restaurant>",restaurant_inquiry
+Would you guys be able to book <restaurant> at <location>?,restaurant_inquiry
+I have a special request for <restaurant>,restaurant_inquiry
+I would like to talk to someone at <restaurant>,restaurant_inquiry
+"Hi, if I would like to make a reservation to <restaurant>, any down payment needed?",restaurant_reservation_regulations
+"Hi, if I would like to make a reservation to <restaurant>, any deposit needed?",restaurant_reservation_regulations
+Is it available for <number_of_people>,tour_available
+Is <keyword> available <location> <time>?,tour_available
+Hi! How can I know if <keyword> tickets for the date I want are still available?,tour_available
+How can I know if <keyword> tickets for the date I want are still available?,tour_available
+How can I know if <keyword> for the date I want are still available?,tour_available
+How can I know if <keyword> for <date> I want are still available?,tour_available
+How can I know if <keyword> for <date> are still available?,tour_available
+<keyword>— available between <date> to <date> ?,tour_available
+<keyword> available between <date> to <date>?,tour_available
+<keyword> available between <date> to <date>?,tour_available
+Hi. would like to get a quote for <keyword> for <number_of_people> adults <date> please,tour_available
+Looking for last minute <keyword> for <number_of_people> people,tour_available
+are there any tickets on the <date>,tour_available
+I am looking for <transportation> for <duration> in <location> covering nearby sites and going up to <location>,tour_available
+"Hello, is <keyword> still available for <date>?",tour_available
+Need information and pricing for a small group of <number_of_people> for a <duration> <keyword> of <location> and <location>. Please advise. We're staying at <hotel> in <location>.,tour_available
+we need to book for <keyword> for <date> for <number_of_people>,tour_available
+is the <keyword> on <date> available other time than <time>,tour_available
+What dates is the <keyword> tour available in <month>?,tour_available
+Is the <keyword> tour available in <location>?,tour_available
+What dates are available for the <keyword> tour?,tour_available
+When is the <keyword> tour available in <month>?,tour_available
+I would like to know if the <keyword> will be open on <date>?,tour_available
+could you help me to confirm if there are available tickets for <keyword> on <date>,tour_available
+Do you have this <keyword>?,tour_available
+Do you have this <keyword> in <location>?,tour_available
+Is the <keyword> tour available on <date>?,tour_available
+Do you have this <keyword> in <location> on <date>?,tour_available
+"I booked a tour confirmation code <confirmation_code>, but I would like to cancel it.",tour_cancel
+Can I cancel the the tour confirmtion code <confirmation_code>?,tour_cancel
+"I need to cancel my tour, how can I do that?",tour_cancel
+I need to reschedule my tour,tour_cancel
+How much is <keyword> is for <number_of_people> on <date>?,tour_inquiry
+What is <tour_parameter> of <keyword> tour?,tour_inquiry
+"Hi, i'm trying to book <keyword> and it looks like it's 300/person. Is this just to book the reservation and then I have to pay for the meal?",tour_inquiry
+Do you pick up at the hotel? We are staying in <hotel> at <location>,tour_inquiry
+is there pickup from the <location> for <keyword> available?,tour_inquiry
+Does <keyword> offer pickup at <location>?,tour_inquiry
+Can a tour guide pick us up at <location>?,tour_inquiry
+please email me information if this tour is available with pickup from <hotel>,tour_inquiry
+Could you provide me the details for <keyword>,tour_inquiry
+I would like a tour for <keyword> festival,tour_inquiry
+I want more details on <keyword> tour,tour_inquiry
+"Hi, what happens if I don't get the reservation on an order?
+",tour_inquiry
+"What happens if I don't get the reservation on an order?
+",tour_inquiry
+Do you refund the charge?,tour_inquiry
+When do I get my refund?,tour_inquiry
+What is the refund policy?,tour_inquiry
+Is <keyword> available in <language>,tour_inquiry
+What do I need to bring with me for <keyword> tour?,tour_inquiry
+Are kids allowed on <keyword> tour?,tour_inquiry
+Is lunch included in tour?,tour_inquiry
+Is food included in tour?,tour_inquiry
+Is there a physical address where we will be picked up?,tour_inquiry_pick_up
+It just seems a little unclear where to meet.,tour_inquiry_pick_up
+When should I be ready for tour?,tour_inquiry_pick_up
+Where does <tour> meet?,tour_inquiry_pick_up
+Is pick-up included?,tour_inquiry_pick_up
+"Hi <name>! Thank you, I am a tour guide in <location> and I was wondering if there is a way I can offer my tours on your website",tour_offer
+Hi <name>! I am a tour guide in <location> and I was wondering if there is a way I can offer my tours on your website,tour_offer
+I would like to partner with your site,tour_offer
+I would like to partner with your app,tour_offer
+We have new tours available,tour_offer
+Information on tour is not correct,tour_offer

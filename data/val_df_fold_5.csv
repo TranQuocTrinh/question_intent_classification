@@ -1,0 +1,37 @@
+Utterance,Intent
+Can you reset my password?,account_information
+Top rated tour for <keyword>,book_tour
+Top recommended tour for <keyword>,book_tour
+What are the top things to do in <location>?,"describe_location, recommend_poi"
+Is there parking near <location>?,generic_request
+I would like to talk to a person.,needs_assistance
+What is the contact info?,needs_assistance
+I'm looking for a <duration> trip from <location> to nearby <location>,recommend_activity
+Looking for a <duration> trip to have some <keyword> from <location>,recommend_activity
+Can you please show me a nice place in <location>?,recommend_activity
+Hi: I am traveling with my family in <location> on <date> and was looking for a great <keyword> tour,recommend_activity
+Must do things in <location>,"recommend_activity, recommend_poi"
+Top recommended <keyword> restaurant,recommend_poi
+Top rated <keyword> food,recommend_poi
+Top rated <keyword> restaurant,recommend_poi
+I want <keyword> food,recommend_poi
+I didn't receive a receipt,reservation_inquiry
+When is my reservation for <keyword>?,reservation_inquiry
+How soon will I find out if the reservation is successful or not?,reservation_regulations
+Hi. i have made the following booking <confirmation_code>. I want to check the status of my booking,reservation_update_request
+Would you guys be able to book <restaurant> at <location>?,restaurant_inquiry
+I have a special request for <restaurant>,restaurant_inquiry
+I would like to talk to someone at <restaurant>,restaurant_inquiry
+I would like to know if the <keyword> will be open on <date>?,tour_available
+could you help me to confirm if there are available tickets for <keyword> on <date>,tour_available
+Do you have this <keyword>?,tour_available
+Do you have this <keyword> in <location>?,tour_available
+Is the <keyword> tour available on <date>?,tour_available
+Do you have this <keyword> in <location> on <date>?,tour_available
+I need to reschedule my tour,tour_cancel
+What do I need to bring with me for <keyword> tour?,tour_inquiry
+Are kids allowed on <keyword> tour?,tour_inquiry
+Is lunch included in tour?,tour_inquiry
+Is food included in tour?,tour_inquiry
+Is pick-up included?,tour_inquiry_pick_up
+Information on tour is not correct,tour_offer

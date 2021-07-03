@@ -1,0 +1,37 @@
+Utterance,Intent
+What is my password?,account_information
+When is next available time slot for <keyword>?,book_tour
+I want a tour on <keyword>,book_tour
+What are things to consider in this area?,"describe_location, recommend_poi"
+Is this area safe?,"describe_location, recommend_poi"
+Are there any toll bridges on the way to <location>?,generic_request
+I need some assistance,needs_assistance
+recommended <keyword> to do by car,recommend_activity
+Fun activities for kids,recommend_activity
+I'm going to <location> <time>. I like <keyword>. My budget is <budget>. What should I do?,recommend_activity
+I would like to see <location>,recommend_activity
+Top recommended activity,"recommend_activity, recommend_poi"
+Where can I find <keyword> food?,recommend_poi
+Show me best restaurants,recommend_poi
+Show me best restaurants for <keyword> food,recommend_poi
+Top recommended <keyword> food,recommend_poi
+I need the bill copy of a reservation.,reservation_inquiry
+I need the copy of a bill of a purchase.,reservation_inquiry
+I want to know the process little more careful and wonder if there are the backup for the payment if the reservation was a scam,reservation_regulations
+"Hi I just sent an email to support, but was hoping to get some update about our reservation.",reservation_update_request
+How late can I cancel my reservation at <restaurant>?,restaurant_inquiry
+Are you able to get a reservation at <restaurant>,restaurant_inquiry
+"Hello, is it possible to pay extra for a seat at <restaurant>",restaurant_inquiry
+"Hi, if I would like to make a reservation to <restaurant>, any deposit needed?",restaurant_reservation_regulations
+is the <keyword> on <date> available other time than <time>,tour_available
+What dates is the <keyword> tour available in <month>?,tour_available
+Is the <keyword> tour available in <location>?,tour_available
+What dates are available for the <keyword> tour?,tour_available
+When is the <keyword> tour available in <month>?,tour_available
+"I need to cancel my tour, how can I do that?",tour_cancel
+Do you refund the charge?,tour_inquiry
+When do I get my refund?,tour_inquiry
+What is the refund policy?,tour_inquiry
+Is <keyword> available in <language>,tour_inquiry
+Where does <tour> meet?,tour_inquiry_pick_up
+We have new tours available,tour_offer

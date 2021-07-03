@@ -1,0 +1,38 @@
+Utterance,Intent
+i did not get any email confirmation and cannot log in to my account with <email>,account_information
+Can you check if I registered the correct email address <email>,account_information
+I wanna buy tickets for <keyword> <time> for <number_of_people>.,book_tour
+I want tickets for <keyword>.,book_tour
+Tell me more about <location>.,"describe_location, recommend_poi"
+How far is <location> away from <location>?,generic_request
+Hello? Are you here?,needs_assistance
+Why aren't you responding?,needs_assistance
+What can I do in <location> <time>?,recommend_activity
+What should I do <time>?,recommend_activity
+Recommend me something <time>?,recommend_activity
+What are the best <keyword> in town?,recommend_activity
+What's fun around here?,"recommend_activity, recommend_poi"
+Top locations for kids,recommend_poi
+Top places to see in <keyword> (month),recommend_poi
+Show me the most <adjective> sites,recommend_poi
+I WOULD like to make a reservation please,reservation_inquiry
+How do i make a reservation?,reservation_inquiry
+I would like to make table reservation at <restaurant>,reservation_inquiry
+Is this a confirmed reservation if we pay?,reservation_regulations
+Can you please confirm by <time>,reservation_update_request
+Is <restaurant> kid friendly?,restaurant_inquiry
+When does <restaurant> close?,restaurant_inquiry
+Does <restaurant> have booster seats for kids?,restaurant_inquiry
+Is it available for <number_of_people>,tour_available
+Is <keyword> available <location> <time>?,tour_available
+Hi! How can I know if <keyword> tickets for the date I want are still available?,tour_available
+How can I know if <keyword> tickets for the date I want are still available?,tour_available
+How can I know if <keyword> for the date I want are still available?,tour_available
+How can I know if <keyword> for <date> I want are still available?,tour_available
+"I booked a tour confirmation code <confirmation_code>, but I would like to cancel it.",tour_cancel
+How much is <keyword> is for <number_of_people> on <date>?,tour_inquiry
+What is <tour_parameter> of <keyword> tour?,tour_inquiry
+"Hi, i'm trying to book <keyword> and it looks like it's 300/person. Is this just to book the reservation and then I have to pay for the meal?",tour_inquiry
+Do you pick up at the hotel? We are staying in <hotel> at <location>,tour_inquiry
+Is there a physical address where we will be picked up?,tour_inquiry_pick_up
+"Hi <name>! Thank you, I am a tour guide in <location> and I was wondering if there is a way I can offer my tours on your website",tour_offer

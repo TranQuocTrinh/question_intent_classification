@@ -1,0 +1,1118 @@
+Utterance,Intent
+I can't log in to my account with <email> because I didn't receive email confirmation.,account_information
+I can't log in to my account because I didn't get email confirmation.,account_information
+I have not received an e-mail confirmation and cannot log into my account with <email>,account_information
+I have received no confirmation by e-mail and cannot log in to my account with <email>,account_information
+I couldn't log in to my account with <email> because I didn't get email confirmation.,account_information
+I can't log in to my account with <email> because I didn't get email confirmation.,account_information
+I can't log in to my account with <email> because I didn't get an email confirmation.,account_information
+i did not get any email confirmation and cannot log in to my account with <email>,account_information
+Can you check whether I have registered the correct email address <email>?,account_information
+You can check if I registered the correct email address.,account_information
+"If I registered the correct email address, can you check it?",account_information
+Can you check if I have registered the correct email address <email>,account_information
+Do you know if I registered the correct email address?,account_information
+Are you able to check if I registered the correct email address?,account_information
+Can you check to see if I registered the correct email address?,account_information
+Can you check if I registered the correct email address <email>,account_information
+"I'm out of my account, can you help me?",account_information
+Can you help me with my account?,account_information
+Can you help me get out of my account?,account_information
+"I'm locked out of my account, can you help me?",account_information
+"I'm locked out of my account, can you help?",account_information
+Can you help me get back into my account?,account_information
+"I'm out of my mind, can you help me?",account_information
+"I am locked out of my account, can you help?",account_information
+"I forgot my password, can you help?",account_information
+Can you help me with my login information?,account_information
+Can you help me with my password?,account_information
+"I forgot my password, can you help me?",account_information
+Can you help me remember my login information?,account_information
+"I forgot my login information, can you help?",account_information
+"I forgot my login information, can you help?",account_information
+What is my password for?,account_information
+What is my password?,account_information
+What's my password for?,account_information
+What's my password?,account_information
+I don't know what my password is.,account_information
+What is my password?,account_information
+Can you change my password?,account_information
+Can you reset my password?,account_information
+Are you able to reset my password?,account_information
+Can you put my password back?,account_information
+Do you have the ability to reset my password?,account_information
+Is there a way to reset my password?,account_information
+Is it possible to reset my password?,account_information
+Can you reset my password?,account_information
+I want to purchase tickets for <keyword> <time>.,book_tour
+I would like to buy tickets for <keyword> <time>.,book_tour
+I want to buy tickets for <keyword> <time>.,book_tour
+I want to purchase tickets for <keyword> <time>.,book_tour
+I want to buy tickets for <keyword> <time> for <number_of_people>.,book_tour
+I want to buy tickets to <keyword> <time> for <number_of_people>.,book_tour
+I want to buy tickets for <keyword> <time>.,book_tour
+I wanna buy tickets for <keyword> <time> for <number_of_people>.,book_tour
+I want tickets for <keyword>.,book_tour
+I would like to get tickets for <keyword>.,book_tour
+I want to go to <keyword>.,book_tour
+I want tickets to <keyword>.,book_tour
+I need tickets for <keyword>.,book_tour
+I would like to purchase tickets for <keyword>.,book_tour
+I would like to purchase tickets for <keyword>.,book_tour
+I want tickets for <keyword>.,book_tour
+Please book a tour for C029 at E064.,book_tour
+Please book a <keyword> tour for <number_of_people> at <time>,book_tour
+"Please, book a tour for C029 at E064.",book_tour
+There is a tour at <time>.,book_tour
+There is a tour for C029 at <time>.,book_tour
+There is a tour for C029 at E064.,book_tour
+Please book a <keyword> tour for <number_of_people> at the <time>,book_tour
+"Please, book a <keyword> tour for <number_of_people> at <time>",book_tour
+I need <keyword> cards for <date>,book_tour
+I need tickets for <date>.,book_tour
+I need <keyword> tickets.,book_tour
+I need <keyword> tickets for <date>,book_tour
+I need tickets for D05.,book_tour
+I need <keyword> tickets.,book_tour
+I need tickets for that event.,book_tour
+I need <keyword> tickets for <date>,book_tour
+Is there a next time slot for <keyword>?,book_tour
+Is there a next time slot for <keyword>?,book_tour
+When is the next time slot available?,book_tour
+When is the next time craneau available for <keyword>?,book_tour
+When is the next available time slot for <keyword>?,book_tour
+When is the next time slot for <keyword>?,book_tour
+When will there be a time slot for <keyword>?,book_tour
+When is next available time slot for <keyword>?,book_tour
+I would like a tour on <keyword>.,book_tour
+I would like a tour on <keyword>.,book_tour
+I want to go on a tour.,book_tour
+I want a tour on <keyword>,book_tour
+I would like to take a tour on <keyword>.,book_tour
+I would like to take a tour on <keyword>.,book_tour
+I want a visit to <keyword>,book_tour
+I want a tour on <keyword>,book_tour
+The tour was the top rated.,book_tour
+The tour for <keyword> was the top rated.,book_tour
+The tour is top rated.,book_tour
+The tour was top rated.,book_tour
+<keyword> tour is the top rated tour.,book_tour
+Best rated visit for <keyword>,book_tour
+Top rated tour for <keyword>,book_tour
+Top rated tour for <keyword>,book_tour
+The recommended tour for <keyword> is the top one.,book_tour
+Top recommended tour for <keyword>,book_tour
+There is a top recommended tour for <keyword>.,book_tour
+The best tour for <keyword>.,book_tour
+Recommended visit for <keyword>,book_tour
+<keyword> is a top recommended tour.,book_tour
+<keyword> is a top recommended tour.,book_tour
+Top recommended tour for <keyword>,book_tour
+I want to know more about <location>.,"describe_location, recommend_poi"
+Tell me more about it.,"describe_location, recommend_poi"
+Tell me about <location>.,"describe_location, recommend_poi"
+Please tell me more about <location>.,"describe_location, recommend_poi"
+Tell me more about <location>.,"describe_location, recommend_poi"
+Let me know more about <location>.,"describe_location, recommend_poi"
+Tell me more about <location>.,"describe_location, recommend_poi"
+Tell me about the funny facts about <location>.,"describe_location, recommend_poi"
+Tell me about the funny facts.,"describe_location, recommend_poi"
+Tell me some funny facts about <location>.,"describe_location, recommend_poi"
+Tell me funny facts about <location>.,"describe_location, recommend_poi"
+Tell me about the facts.,"describe_location, recommend_poi"
+Tell me the funniest facts about <location>.,"describe_location, recommend_poi"
+Tell me some funny facts.,"describe_location, recommend_poi"
+Tell me funny facts about <location>.,"describe_location, recommend_poi"
+What are some things to consider in this area?,"describe_location, recommend_poi"
+What are some things to think about in this area?,"describe_location, recommend_poi"
+What should be considered in this area?,"describe_location, recommend_poi"
+There are things to think about in this area.,"describe_location, recommend_poi"
+What are some things to consider?,"describe_location, recommend_poi"
+There are things to consider in this area.,"describe_location, recommend_poi"
+What are things to consider in this area?,"describe_location, recommend_poi"
+Is this area safe?,"describe_location, recommend_poi"
+Is this a safe area?,"describe_location, recommend_poi"
+Is this place safe?,"describe_location, recommend_poi"
+Is this safe?,"describe_location, recommend_poi"
+Is the area safe?,"describe_location, recommend_poi"
+Is this area safe?,"describe_location, recommend_poi"
+What are the top things to do?,"describe_location, recommend_poi"
+What are the things to do?,"describe_location, recommend_poi"
+What are the things to do in <location>?,"describe_location, recommend_poi"
+What are the best things to do in <location>?,"describe_location, recommend_poi"
+What are the top things to do in the area?,"describe_location, recommend_poi"
+What are the best things to do?,"describe_location, recommend_poi"
+What are the top things to do in <location>?,"describe_location, recommend_poi"
+What is the distance between <location> and <location>?,generic_request
+What is the distance from <location> to B014?,generic_request
+How far away from <location> is it?,generic_request
+How far is <location> from <location>?,generic_request
+How far from <location> is it?,generic_request
+How far away is <location> from each other?,generic_request
+How far is <location> away from <location>?,generic_request
+What is the fastest way to get to <location>?,generic_request
+Which is the fastest way to get to <location>?,generic_request
+How fast is it to get to <location>?,generic_request
+How fast can you get to <location>?,generic_request
+What is the best way to get to <location>?,generic_request
+What is the fastest way to get there?,generic_request
+What is the fastest way to get to <location>?,generic_request
+Is there any toll bridges on the way to <location>?,generic_request
+Can you tell me if there are any toll bridges on the way to <location>?,generic_request
+Is there a toll bridge on the way to <location>?,generic_request
+There are toll bridges on the way to <location>.,generic_request
+Are there toll breaks on the way to <location>?,generic_request
+Are there any peage bridges on the road to <location>?,generic_request
+Do you know if there are any toll bridges on the way to <location>?,generic_request
+Are there any toll bridges on the way to <location>?,generic_request
+Is it possible to find a parking spot near <location>?,generic_request
+Are there parking spaces near <location>?,generic_request
+Is there a parking lot near <location>?,generic_request
+Is it possible to find parking near <location>?,generic_request
+Is there a place to park near <location>?,generic_request
+Is there any parking near <location>?,generic_request
+Is there parking near <location>?,generic_request
+Are you currently here?,needs_assistance
+"Hello, are you here?",needs_assistance
+Are you present?,needs_assistance
+Are you there?,needs_assistance
+Are you here?,needs_assistance
+Hello? Are you here?,needs_assistance
+Why don't you react?,needs_assistance
+Why don't you answer?,needs_assistance
+Why aren't you responding?,needs_assistance
+Why don't you respond?,needs_assistance
+Why are you not responding?,needs_assistance
+Why haven't you responded?,needs_assistance
+Why aren't you answering?,needs_assistance
+Why aren't you responding?,needs_assistance
+It's hey!,needs_assistance
+"Hey, I'm okay!",needs_assistance
+It's Hey!,needs_assistance
+Hey!,needs_assistance
+I'm Hey!,needs_assistance
+Hey!,needs_assistance
+I need assistance.,needs_assistance
+I need some assistance.,needs_assistance
+I need someone to help me.,needs_assistance
+I need some help.,needs_assistance
+I need help.,needs_assistance
+I need some assistance,needs_assistance
+I would like to speak to someone.,needs_assistance
+I'd like to talk to someone.,needs_assistance
+I want to talk to someone.,needs_assistance
+I liked talking to a person.,needs_assistance
+I would like to speak with someone.,needs_assistance
+I would like to talk to someone.,needs_assistance
+I would like to talk to a person.,needs_assistance
+What are the coordinates?,needs_assistance
+The contact info is what it is.,needs_assistance
+The contact info is important.,needs_assistance
+What is the name of the person?,needs_assistance
+What is the contact information?,needs_assistance
+What is the phone number?,needs_assistance
+What is the contact info?,needs_assistance
+What can I do?,recommend_activity
+Is there anything I can do in <location> <time>?,recommend_activity
+What can I do to improve my life?,recommend_activity
+What can I do in <location> <time>?,recommend_activity
+What can I do to improve the situation?,recommend_activity
+What can I do to improve my situation?,recommend_activity
+What can I do in <location> <time>?,recommend_activity
+I don't know what I should do.,recommend_activity
+What should I do?,recommend_activity
+I don't know what to do <time>.,recommend_activity
+What should I do <time>?,recommend_activity
+I don't know what to do.,recommend_activity
+"<time>, what should I do?",recommend_activity
+What should I do <time>?,recommend_activity
+Is it a good idea to recommend me something?,recommend_activity
+Recommend something to me <time>?,recommend_activity
+Is it a good idea to recommend something <time>?,recommend_activity
+Recommend me a little <time>?,recommend_activity
+Is it a good idea to recommend <time> to me?,recommend_activity
+Is it a good idea to tell me something <time>?,recommend_activity
+Do you recommend something?,recommend_activity
+Recommend me something <time>?,recommend_activity
+What are the best <keyword>s in the city?,recommend_activity
+What are the top <keyword>s in town?,recommend_activity
+What are the best <keyword>s in town?,recommend_activity
+What's the best <keyword> in town?,recommend_activity
+What is the best <keyword> in town?,recommend_activity
+What are the best <keyword> in town?,recommend_activity
+What are the best things to do in town?,recommend_activity
+What are the best <keyword> in town?,recommend_activity
+We are looking for a tour <number_of_people> <location> <time>.,recommend_activity
+We are looking for a tour that1-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-6556,recommend_activity
+We are looking for a tour.,recommend_activity
+We are searching for a tour.,recommend_activity
+We are looking for a visit <number_of_people> <location> <time>.,recommend_activity
+We are looking for a tour that1-65561-65561-65561-65561-65561-65561-65561-65561-65561-6556 is1-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-65561-6556,recommend_activity
+We're looking for a tour.,recommend_activity
+We are looking for a tour <number_of_people> <location> <time>.,recommend_activity
+I want to book <keyword>.,recommend_activity
+I would like to book <keyword>.,recommend_activity
+I want to reserve <keyword>,recommend_activity
+I want to book <keyword>.,recommend_activity
+I'd like to book <keyword>.,recommend_activity
+I would like to book <keyword>.,recommend_activity
+I liked to book <keyword>,recommend_activity
+I want to book <keyword>,recommend_activity
+I want to book it.,recommend_activity
+I'd like to book <restaurant>.,recommend_activity
+I liked book <restaurant>,recommend_activity
+I would love to book <restaurant>.,recommend_activity
+I want to book <restaurant>.,recommend_activity
+I want to reserve <restaurant>,recommend_activity
+I would like to book <restaurant>.,recommend_activity
+I want to book <restaurant>,recommend_activity
+I am looking for a good <keyword> with budget around <budget> for <time>.,recommend_activity
+I'm looking for the good <keyword> in <location> with budget around <budget> for <time>.,recommend_activity
+I am looking for a good <keyword> with a budget around <budget>.,recommend_activity
+I'm looking for the good <keyword> in <location> with a budget around <budget> for <time> .,recommend_activity
+I am looking for a good <keyword> with a budget of around <budget>.,recommend_activity
+I am looking for a good <keyword> with budget around <budget>.,recommend_activity
+I am looking for a good <keyword> with a budget around <budget>.,recommend_activity
+I’m looking for the good <keyword> in <location> with budget around <budget> for <time>.,recommend_activity
+<keyword> should be done by car.,recommend_activity
+recommended <keyword> to do with the car,recommend_activity
+<keyword> recommends to do in car,recommend_activity
+<keyword> was recommended to do by car.,recommend_activity
+<keyword> is recommended to do by car.,recommend_activity
+<keyword> was recommended to do by car.,recommend_activity
+<keyword> should be done by car.,recommend_activity
+recommended <keyword> to do by car,recommend_activity
+Fun activities for children,recommend_activity
+There are fun activities for kids.,recommend_activity
+There are a lot of fun activities for kids.,recommend_activity
+There are a lot of fun activities for children.,recommend_activity
+There are fun activities for children.,recommend_activity
+There are lots of fun activities for kids.,recommend_activity
+Fun activities for kids,recommend_activity
+"My budget is <budget>, what should I do?",recommend_activity
+I'm going to <location> <time>. I like <keyword>. My budget is <budget>. What should I do?,recommend_activity
+I have a budget of <budget>.,recommend_activity
+I don't know what to do with my budget.,recommend_activity
+I have a budget of <budget> and I like <keyword>.,recommend_activity
+I have a budget of <budget> and I like <keyword>.,recommend_activity
+I'm going to <location> <time>. I like <keyword>. My budget is <budget>. What should I do?,recommend_activity
+I would like to see <location>,recommend_activity
+I would love to see <location>.,recommend_activity
+I liked to see <location>.,recommend_activity
+<location> is something I would like to see.,recommend_activity
+I would like to see it.,recommend_activity
+I want to see <location>.,recommend_activity
+I'd like to see <location>.,recommend_activity
+I would like to see <location>,recommend_activity
+I'm looking for a trip to <location>.,recommend_activity
+I'm looking for a trip from B029 to B029.,recommend_activity
+I'm looking for a ride from <location> to nearby <location>.,recommend_activity
+I'm looking for a trip from <location> to <duration>.,recommend_activity
+I'm trying to find a trip from <location> to nearby <location>.,recommend_activity
+I'm looking for a <duration> trip from <location> to <location> near,recommend_activity
+I'm looking for a trip to <duration> from <location> to proximity <location>,recommend_activity
+I'm looking for a <duration> trip from <location> to nearby <location>,recommend_activity
+Looking for a trip to get some <keyword>.,recommend_activity
+Looking for a trip to get <keyword> from <location>.,recommend_activity
+Looking for a trip to <duration> to have some <keyword> from <location>,recommend_activity
+I'm looking for a trip to get some <keyword>.,recommend_activity
+I'm looking for a trip to have some <keyword>.,recommend_activity
+Looking for an <duration> trip to have some <keyword> of <location>,recommend_activity
+Looking for a trip to have some <keyword>.,recommend_activity
+Looking for a <duration> trip to have some <keyword> from <location>,recommend_activity
+Can you show me a nice place in <location>?,recommend_activity
+Can you show me a place that is nice?,recommend_activity
+I would like to see a nice place in <location>.,recommend_activity
+Can you show me a nice place?,recommend_activity
+Can you please show me a nice place in <location>?,recommend_activity
+I want to know if you can show me a nice place in <location>.,recommend_activity
+I want to know if you can show me a nice place.,recommend_activity
+Can you please show me a nice place in <location>?,recommend_activity
+Hello: I travel with my family in <location> on <date> and was looking for a great <keyword> tour,recommend_activity
+I am traveling with my family and looking for a great tour.,recommend_activity
+I am traveling with my family in <location> on <date> and was looking for a great tour.,recommend_activity
+I am traveling with my family in <location> on <date> and I was looking for a great tour.,recommend_activity
+Hello: I travel with my family in <location> on <date> and was looking for a great visit <keyword>,recommend_activity
+I am traveling with my family in <location> and was looking for a great tour.,recommend_activity
+I am traveling with my family and was looking for a great tour.,recommend_activity
+Hi: I am traveling with my family in <location> on <date> and was looking for a great <keyword> tour,recommend_activity
+What's going on here?,"recommend_activity, recommend_poi"
+What is it that makes this place fun?,"recommend_activity, recommend_poi"
+What's it like here?,"recommend_activity, recommend_poi"
+What is it about this place that makes it fun?,"recommend_activity, recommend_poi"
+What is it about this area that makes it fun?,"recommend_activity, recommend_poi"
+What is it about here that makes it fun?,"recommend_activity, recommend_poi"
+What's fun around here?,"recommend_activity, recommend_poi"
+Show me most <adjective> pages on Tourmega,"recommend_activity, recommend_poi"
+Show me the most <adjective> sites on tourmega,"recommend_activity, recommend_poi"
+Show me the most <adjective> websites.,"recommend_activity, recommend_poi"
+Show me where the <adjective> sites are.,"recommend_activity, recommend_poi"
+Let me know the most <adjective> sites on tourmega.,"recommend_activity, recommend_poi"
+I want to know the most <adjective> sites on tourmega.,"recommend_activity, recommend_poi"
+Show me the most <adjective> sites.,"recommend_activity, recommend_poi"
+Show me the most <adjective> sites on tourmega,"recommend_activity, recommend_poi"
+I would like to go <country>.,"recommend_activity, recommend_poi"
+I'd like to go <country>.,"recommend_activity, recommend_poi"
+I would like to go <country>.,"recommend_activity, recommend_poi"
+I want to go to <country>.,"recommend_activity, recommend_poi"
+I would love to go <country>.,"recommend_activity, recommend_poi"
+I want to go <country>.,"recommend_activity, recommend_poi"
+I want <country>,"recommend_activity, recommend_poi"
+I want to go <country>,"recommend_activity, recommend_poi"
+There is a top recommended activity.,"recommend_activity, recommend_poi"
+Top activity to do.,"recommend_activity, recommend_poi"
+Recommended activity,"recommend_activity, recommend_poi"
+The top activity is recommended.,"recommend_activity, recommend_poi"
+Top activity that should be done.,"recommend_activity, recommend_poi"
+It's the top recommended activity.,"recommend_activity, recommend_poi"
+Top recommended activity,"recommend_activity, recommend_poi"
+Top recommended activity,"recommend_activity, recommend_poi"
+Things have to be done in <location>.,"recommend_activity, recommend_poi"
+It's necessary to do things in <location>.,"recommend_activity, recommend_poi"
+It is necessary to do things in <location>.,"recommend_activity, recommend_poi"
+Must do things in <location>,"recommend_activity, recommend_poi"
+Things must be done in <location>.,"recommend_activity, recommend_poi"
+There are things that must be done in <location>.,"recommend_activity, recommend_poi"
+Must do things in <location>,"recommend_activity, recommend_poi"
+There are some top locations for kids.,recommend_poi
+Best places for children,recommend_poi
+There are some top locations for children.,recommend_poi
+Top locations for children,recommend_poi
+There are top places for kids.,recommend_poi
+There are top locations for children.,recommend_poi
+There are top locations for kids.,recommend_poi
+Top locations for kids,recommend_poi
+There are top places to see in the month.,recommend_poi
+There are top places to see in <keyword>.,recommend_poi
+There are top places to see in <keyword>.,recommend_poi
+There are some top places to see in the month.,recommend_poi
+Top places to see in <keyword> (month),recommend_poi
+Best places to see in <keyword> (month),recommend_poi
+There are top places to see in this month.,recommend_poi
+Top places to see in <keyword> (month),recommend_poi
+Show me most <adjective> pages,recommend_poi
+Send me the most <adjective> sites.,recommend_poi
+I want to know the most <adjective> sites.,recommend_poi
+Tell me the most <adjective> sites.,recommend_poi
+Show me most sites <adjective>,recommend_poi
+Show me the most <adjective> sites.,recommend_poi
+Let me know the most <adjective> sites.,recommend_poi
+Show me the most <adjective> sites,recommend_poi
+Show me what's hidden.,recommend_poi
+Show me gems that I don't know.,recommend_poi
+Show me gems that are hidden.,recommend_poi
+Show me the gems.,recommend_poi
+Show me hidden gems,recommend_poi
+Show me the gems that are hidden.,recommend_poi
+Show me some precious hidden stones.,recommend_poi
+Show me hidden gems,recommend_poi
+Show me where the hidden locations are.,recommend_poi
+Show me the places that are hidden.,recommend_poi
+Show me hidden places,recommend_poi
+Let me know where the hidden locations are.,recommend_poi
+Show me places that are hidden.,recommend_poi
+Show me where the hidden places are.,recommend_poi
+Show me the hiding places,recommend_poi
+Show me hidden locations,recommend_poi
+There are locations with less people.,recommend_poi
+There are places with less people.,recommend_poi
+The locations have less people.,recommend_poi
+There are locations that have less people.,recommend_poi
+There are locations with fewer people.,recommend_poi
+Plots with fewer people,recommend_poi
+Sites with fewer people,recommend_poi
+Locations with less people,recommend_poi
+Where can I get <keyword> food?,recommend_poi
+Where can I find <keyword> food?,recommend_poi
+Where can I get <keyword> food?,recommend_poi
+Is there a place where I can find <keyword> food?,recommend_poi
+Or can I find <keyword> food?,recommend_poi
+Where can I buy <keyword> food?,recommend_poi
+Where can I find food?,recommend_poi
+Where can I find <keyword> food?,recommend_poi
+Show me places to eat.,recommend_poi
+Show me the best restaurants,recommend_poi
+Show me the best places to eat.,recommend_poi
+Show me the best restaurants.,recommend_poi
+I want to show you the best restaurants.,recommend_poi
+Tell me about the best restaurants.,recommend_poi
+Show me best restaurants,recommend_poi
+I want to know the best restaurants for <keyword> food.,recommend_poi
+Show me the best places to eat.,recommend_poi
+I want to know the best restaurants for <keyword>.,recommend_poi
+Show me the best restaurants for food <keyword>,recommend_poi
+I need to know the best restaurants for <keyword> food.,recommend_poi
+I want to know the best restaurants for <keyword> food.,recommend_poi
+Show me the best restaurants for <keyword> food,recommend_poi
+Show me best restaurants for <keyword> food,recommend_poi
+<keyword> is the top recommended food.,recommend_poi
+<keyword> food is the top recommended food.,recommend_poi
+<keyword> food is recommended.,recommend_poi
+Top recommended <keyword> foods,recommend_poi
+The recommended food is <keyword>.,recommend_poi
+<keyword> recommended foods,recommend_poi
+<keyword> food is recommended.,recommend_poi
+Top recommended <keyword> food,recommend_poi
+<keyword> restaurant is recommended.,recommend_poi
+<keyword> is a top recommended restaurant.,recommend_poi
+Top recommended restaurant <keyword>,recommend_poi
+Top recommended <keyword> Restaurant,recommend_poi
+There is a top recommended restaurant.,recommend_poi
+<keyword> restaurant is a top recommended restaurant.,recommend_poi
+<keyword> restaurant is recommended.,recommend_poi
+Top recommended <keyword> restaurant,recommend_poi
+<keyword> food is the top rated.,recommend_poi
+<keyword> food is the top rated.,recommend_poi
+<keyword> food is top rated.,recommend_poi
+Food <keyword> best rated,recommend_poi
+The food is top rated.,recommend_poi
+<keyword> food is top rated.,recommend_poi
+Top rated <keyword> food,recommend_poi
+Top rated <keyword> food,recommend_poi
+The top rated restaurant is <keyword>.,recommend_poi
+Top rated <keyword> Restaurant,recommend_poi
+The restaurant is top rated.,recommend_poi
+Restaurant <keyword> the best score,recommend_poi
+<keyword> restaurant is a top rated restaurant.,recommend_poi
+<keyword> restaurant is top rated.,recommend_poi
+A top rated restaurant.,recommend_poi
+Top rated <keyword> restaurant,recommend_poi
+<keyword> food is what I want.,recommend_poi
+I want <keyword> food.,recommend_poi
+I would like <keyword> food.,recommend_poi
+I would like <keyword> food.,recommend_poi
+<keyword> food is what I want.,recommend_poi
+I want <keyword> food,recommend_poi
+I want <keyword> food.,recommend_poi
+I want <keyword> food,recommend_poi
+Please make a reservation for me.,reservation_inquiry
+"I'd like to make a reservation, please.",reservation_inquiry
+I'd like to make a reservation.,reservation_inquiry
+I want to make a reservation.,reservation_inquiry
+I was happy to make a reservation please,reservation_inquiry
+Please let me know if I can make a reservation.,reservation_inquiry
+I would like to make a reservation.,reservation_inquiry
+I WOULD like to make a reservation please,reservation_inquiry
+I don't know how to make a reservation.,reservation_inquiry
+How can I reserve?,reservation_inquiry
+Is it possible to make a reservation?,reservation_inquiry
+How do I make a reservation?,reservation_inquiry
+I want to make a reservation.,reservation_inquiry
+How can I make a reservation?,reservation_inquiry
+How do i make a reservation?,reservation_inquiry
+I would like to make a table reservation.,reservation_inquiry
+I want to make a table reservation.,reservation_inquiry
+I would like to make a reservation for a table.,reservation_inquiry
+I liked to make table reservation at <restaurant>,reservation_inquiry
+I would like to reserve a table.,reservation_inquiry
+I'd like to make a table reservation at <restaurant>,reservation_inquiry
+I would like to make a reservation.,reservation_inquiry
+I would like to make table reservation at <restaurant>,reservation_inquiry
+I have to make a group reservation.,reservation_inquiry
+I need to make a group reservation.,reservation_inquiry
+I have to make a group reservation at <restaurant>.,reservation_inquiry
+I have to make a group reservation to <restaurant>,reservation_inquiry
+I need to make a reservation for a group.,reservation_inquiry
+I need to make a reservation.,reservation_inquiry
+I need a group reservation.,reservation_inquiry
+I need to make a group reservation at <restaurant>,reservation_inquiry
+"I need the bill copy of a purchase, can you help me?",reservation_inquiry
+"I need the invoice for a purchase made by my boss, can you help me?",reservation_inquiry
+Can you help me with the bill copy of my purchase from my boss?,reservation_inquiry
+"I need a copy of a purchase from my boss, can you help me?",reservation_inquiry
+Can you help me with the bill copy of my purchase?,reservation_inquiry
+I need a copy of the bill for my boss.,reservation_inquiry
+Can you help me get the bill copy of my purchase from my boss?,reservation_inquiry
+"I need the bill copy of a purchase made by my boss, can you help me?",reservation_inquiry
+I need the bill copy for the reservation.,reservation_inquiry
+I need a copy of the reservation bill.,reservation_inquiry
+I need a copy of a reservation.,reservation_inquiry
+I need a reservation bill.,reservation_inquiry
+I need the bill for the reservation.,reservation_inquiry
+I need a copy of the bill.,reservation_inquiry
+I need a copy of the bill for the reservation.,reservation_inquiry
+I need the bill copy of a reservation.,reservation_inquiry
+I need a copy of a purchase invoice.,reservation_inquiry
+I need a copy of a bill.,reservation_inquiry
+I need a copy of the bill.,reservation_inquiry
+I need a copy of the purchase invoice.,reservation_inquiry
+I need a copy of a purchase ticket.,reservation_inquiry
+I need a copy of the purchase bill.,reservation_inquiry
+There is a bill of a purchase.,reservation_inquiry
+I need the copy of a bill of a purchase.,reservation_inquiry
+I didn't get a receipt.,reservation_inquiry
+I didn't receive a receipt.,reservation_inquiry
+I did not get a receipt.,reservation_inquiry
+I did not receive a receipt.,reservation_inquiry
+I don't have a receipt.,reservation_inquiry
+I didn't receive a receipt,reservation_inquiry
+When is my reservation for <keyword>?,reservation_inquiry
+When am I supposed to make a reservation for <keyword>?,reservation_inquiry
+When will I be able to make a reservation for <keyword>?,reservation_inquiry
+When's my reservation for <keyword>?,reservation_inquiry
+When am I able to make a reservation for <keyword>?,reservation_inquiry
+When will I be able to make a reservation for <keyword>?,reservation_inquiry
+When am I supposed to make a reservation for <keyword>?,reservation_inquiry
+When is my reservation for <keyword>?,reservation_inquiry
+"If we pay, is this a confirmed reservation?",reservation_regulations
+Is it a confirmed reservation if we pay?,reservation_regulations
+Is this confirmed if we pay?,reservation_regulations
+"If we pay, is it a confirmed reservation?",reservation_regulations
+Is this a confirmed reservation if we pay?,reservation_regulations
+Is this a fixed reservation when we pay?,reservation_regulations
+Is this a confirmed reservation if we pay?,reservation_regulations
+Why are we being charged for a tour?,reservation_regulations
+Why are we being charged to go on a tour?,reservation_regulations
+We would like to make a reservation for a tour.,reservation_regulations
+we liked to make a reservation at <restaurant>. Why are we commissioned to do a tour?,reservation_regulations
+We would like to make a reservation.,reservation_regulations
+we would like to make a reservation in <restaurant>. Why are we responsible for making a visit,reservation_regulations
+We want to make a reservation at <restaurant>.,reservation_regulations
+we would like to make a reservation at <restaurant>. Why are we being charged to take a tour,reservation_regulations
+"Hello, if the application for <restaurant> is not fulfilled, will the costs be reimbursed?",reservation_regulations
+"Hello, if the request is not met for <restaurant>, will the cost be refunded?",reservation_regulations
+Will the cost be forgiven if the request is not fulfilled?,reservation_regulations
+Will the cost be returned if the request is not fulfilled?,reservation_regulations
+Will the cost be refunded if the request is not fulfilled?,reservation_regulations
+Will the cost be paid back if the request is not fulfilled?,reservation_regulations
+Will the cost be reimbursed if the request is not fulfilled?,reservation_regulations
+"Hi, if the request is not fulfilled for <restaurant>, will the cost be refunded?",reservation_regulations
+I wonder if there is a backup for the payment if the reservation is a scam.,reservation_regulations
+I wonder if there is a backup for the payment if the reservation was a scam.,reservation_regulations
+I wonder if there is a backup for the payment in case the reservation was a scam.,reservation_regulations
+"If the reservation was a scam, I would like to know if there was a backup for the payment.",reservation_regulations
+I want to know the process a little more cautious and wonder if there is the backup for the payment if the reservation was a scam,reservation_regulations
+I liked to know the process a bit more carefully and ask myself if there is the backup for the payment if the reservation was a fraud,reservation_regulations
+"If the reservation was a scam, I wonder if there was a backup for the payment.",reservation_regulations
+I want to know the process little more careful and wonder if there are the backup for the payment if the reservation was a scam,reservation_regulations
+How long will I know if the reservation is successful or not?,reservation_regulations
+How quickly will I find out if the reservation is successful or not?,reservation_regulations
+How soon will I know if the reservation is a success?,reservation_regulations
+I don't know when I'll find out if the reservation is a success or not.,reservation_regulations
+How soon will I know if the reservation is successful or not?,reservation_regulations
+How soon will I know if the reservation is a success or not?,reservation_regulations
+I don't know when I'll find out if the reservation is successful or not.,reservation_regulations
+How soon will I find out if the reservation is successful or not?,reservation_regulations
+Is it possible to confirm by <time>.,reservation_update_request
+Is it possible to confirm by E064.,reservation_update_request
+Can you confirm it?,reservation_update_request
+Can you confirm by <time> please?,reservation_update_request
+Is it possible to confirm by <time>?,reservation_update_request
+"Can you confirm by <time>, please?",reservation_update_request
+Are you able to confirm by <time>?,reservation_update_request
+Can you please confirm by <time>,reservation_update_request
+An email was sent to support the reservation.,reservation_update_request
+I have an e-mail to the support about the reservation <confirmation_code>,reservation_update_request
+I sent an email to support reservation <confirmation_code>,reservation_update_request
+I sent a support email.,reservation_update_request
+The email was sent to support the reservation.,reservation_update_request
+I sent an email to support.,reservation_update_request
+I sent an email to support the reservation.,reservation_update_request
+I sent an email to support about reservation <confirmation_code>,reservation_update_request
+I was hoping to get an update on our reservation after I sent the email.,reservation_update_request
+I was hoping to get an update about our reservation after I sent the email.,reservation_update_request
+I just sent an email to support and was hoping to get an update on our reservation.,reservation_update_request
+I sent an email to support hoping to get an update on our reservation.,reservation_update_request
+"Hello, I just sent an email to support, but I was hoping to get an update on our reservation.",reservation_update_request
+I sent an email to support and was hoping to get an update on our reservation.,reservation_update_request
+"Hello I just sent an e-mail to the support, but I was hoping to get some update on our reservation.",reservation_update_request
+"Hi I just sent an email to support, but was hoping to get some update about our reservation.",reservation_update_request
+I want to check the status of my booking.,reservation_update_request
+I would like to check the status of my booking.,reservation_update_request
+Hello. I made the following booking <confirmation_code>. I liked to check the status of my booking,reservation_update_request
+Hello. I made the following reservation <confirmation_code>. I want to check the status of my reservation.,reservation_update_request
+I would like to know the status of my booking.,reservation_update_request
+I want to know the status of my booking.,reservation_update_request
+I want to check the status of my booking,reservation_update_request
+Hi. i have made the following booking <confirmation_code>. I want to check the status of my booking,reservation_update_request
+Is <restaurant> child friendly?,restaurant_inquiry
+Is <restaurant> friendly to kids?,restaurant_inquiry
+Is <restaurant> children friendly?,restaurant_inquiry
+Is <restaurant> a good place to be a kid?,restaurant_inquiry
+Is <restaurant> friendly for children?,restaurant_inquiry
+Is <restaurant> kid friendly?,restaurant_inquiry
+Is <restaurant> family friendly?,restaurant_inquiry
+Is <restaurant> kid friendly?,restaurant_inquiry
+When's <restaurant> closing?,restaurant_inquiry
+<restaurant> is close to when?,restaurant_inquiry
+Is <restaurant> close?,restaurant_inquiry
+When is <restaurant> close?,restaurant_inquiry
+<restaurant> is close when?,restaurant_inquiry
+When does <restaurant> close?,restaurant_inquiry
+When does <restaurant> close?,restaurant_inquiry
+Is it possible that <restaurant> has booster seats for kids?,restaurant_inquiry
+Does <restaurant> have booster seats for children?,restaurant_inquiry
+Does <restaurant> have extra seats for children?,restaurant_inquiry
+Does <restaurant> have children's booster seats?,restaurant_inquiry
+Does <restaurant> have booster seats for kids?,restaurant_inquiry
+Does <restaurant> have booster seats?,restaurant_inquiry
+Does <restaurant> have booster seats for kids?,restaurant_inquiry
+Does <keyword> offer delivery?,restaurant_inquiry
+Does <keyword> have delivery?,restaurant_inquiry
+Does <keyword> have delivery?,restaurant_inquiry
+Does <keyword> offer a delivery?,restaurant_inquiry
+Does <keyword> deliver?,restaurant_inquiry
+Does <keyword> offer delivery?,restaurant_inquiry
+Does <keyword> offer delivery?,restaurant_inquiry
+There is a need for reservations for <number_of_people> at <restaurant> and <date>.,restaurant_inquiry
+There is a need for a reservation at <restaurant> and <date>.,restaurant_inquiry
+There is a need for a reservation for C029 at <restaurant>.,restaurant_inquiry
+There is a need for a reservation for <number_of_people> at <restaurant> and <date>.,restaurant_inquiry
+Need reservation for <number_of_people> a <restaurant> on <date> a <time>,restaurant_inquiry
+Reservation required for <number_of_people> at <restaurant> at <date> at <time>,restaurant_inquiry
+There is a need for a reservation for <number_of_people> at <restaurant>.,restaurant_inquiry
+Need reservation for <number_of_people> at <restaurant> on <date> at <time>,restaurant_inquiry
+What is the cost of <restaurant>?,restaurant_inquiry
+What is the price of <restaurant>?,restaurant_inquiry
+How expensive is it?,restaurant_inquiry
+How much is <restaurant>?,restaurant_inquiry
+How much does <restaurant> cost?,restaurant_inquiry
+How expensive is <restaurant>?,restaurant_inquiry
+How late can I cancel my reservation?,restaurant_inquiry
+How long can I cancel my reservation in <restaurant>?,restaurant_inquiry
+How later can I cancel my reservation at <restaurant>?,restaurant_inquiry
+How late can I get rid of my reservation?,restaurant_inquiry
+Is it possible to cancel my reservation late?,restaurant_inquiry
+I don't know how late I can cancel my reservation.,restaurant_inquiry
+Is it possible to cancel my reservation at <restaurant>?,restaurant_inquiry
+How late can I cancel my reservation at <restaurant>?,restaurant_inquiry
+Are you able to get a reservation in <restaurant>,restaurant_inquiry
+Are you able to make a reservation?,restaurant_inquiry
+Is it possible to get a reservation at <restaurant>?,restaurant_inquiry
+Are you able to get a reservation at <restaurant>,restaurant_inquiry
+Are you able to get a reservation?,restaurant_inquiry
+Are you able to make a reservation at <restaurant>?,restaurant_inquiry
+Do you know if you can get a reservation at <restaurant>?,restaurant_inquiry
+Are you able to get a reservation at <restaurant>,restaurant_inquiry
+"Hello, is it possible to pay a supplement for a seat in <restaurant>",restaurant_inquiry
+Is it possible to pay more for a seat?,restaurant_inquiry
+Is it possible to pay extra for a seat?,restaurant_inquiry
+Is it possible to pay more for a seat at <restaurant>.,restaurant_inquiry
+"Hello, it is possible to pay extra for a seat at <restaurant>",restaurant_inquiry
+Is it possible to pay extra for a seat at <restaurant>?,restaurant_inquiry
+Is it possible to pay more for a seat at <restaurant>?,restaurant_inquiry
+"Hello, is it possible to pay extra for a seat at <restaurant>",restaurant_inquiry
+Is it possible for you to book <restaurant> at <location>?,restaurant_inquiry
+Would you guys be able to book <restaurant>?,restaurant_inquiry
+Can you book <restaurant> at <location>?,restaurant_inquiry
+Would you be able to book <restaurant> at <location>?,restaurant_inquiry
+Could you book <restaurant> at <location>?,restaurant_inquiry
+Is it possible to book <restaurant> at <location>?,restaurant_inquiry
+Is it possible for you guys to book <restaurant> at <location>?,restaurant_inquiry
+Would you guys be able to book <restaurant> at <location>?,restaurant_inquiry
+There is a special request for <restaurant>.,restaurant_inquiry
+I have a special request for <restaurant>,restaurant_inquiry
+There is a request for <restaurant> that I have.,restaurant_inquiry
+There is a request for <restaurant>.,restaurant_inquiry
+I have a special request.,restaurant_inquiry
+I have a request for <restaurant>.,restaurant_inquiry
+I have a special request for <restaurant>,restaurant_inquiry
+I'd like to talk to someone at <restaurant>.,restaurant_inquiry
+I would like to speak to someone.,restaurant_inquiry
+I liked talking to someone at <restaurant>.,restaurant_inquiry
+I'd like to speak to someone at <restaurant>.,restaurant_inquiry
+I want to speak to someone at <restaurant>.,restaurant_inquiry
+I would like to speak with someone.,restaurant_inquiry
+I would like to talk to someone.,restaurant_inquiry
+I would like to talk to someone at <restaurant>,restaurant_inquiry
+"Hello, if I'd like to make a reservation at <restaurant>, all necessary deposit?",restaurant_reservation_regulations
+Any deposit is needed to make a reservation to <restaurant>.,restaurant_reservation_regulations
+"Hello, if I wanted to make a reservation for <restaurant>, a deposit required?",restaurant_reservation_regulations
+"If I want to make a reservation to <restaurant>, I need a deposit.",restaurant_reservation_regulations
+Is there a deposit needed to make a reservation to <restaurant>?,restaurant_reservation_regulations
+Any deposit is needed to make a reservation to <restaurant>?,restaurant_reservation_regulations
+Is there a deposit needed to make a reservation?,restaurant_reservation_regulations
+"Hi, if I would like to make a reservation to <restaurant>, any deposit needed?",restaurant_reservation_regulations
+Is it available in the state?,tour_available
+Is it available in that location?,tour_available
+Is it available in that area?,tour_available
+Do you know if it is available for <number_of_people>?,tour_available
+Is it available in the area?,tour_available
+Is it available for <number_of_people>,tour_available
+Is it available for <number_of_people>,tour_available
+Is <location> <time> available?,tour_available
+Is it possible to find <location> <time>?,tour_available
+Is <keyword> available?,tour_available
+Is it possible that <keyword> is available?,tour_available
+Is <keyword> available?,tour_available
+Is <keyword> available <location> <time>?,tour_available
+Is <keyword> available <location> <time>?,tour_available
+How can I find out if <keyword> tickets are still available?,tour_available
+I want to know if <keyword> tickets are still available.,tour_available
+Hello! How can I know if <keyword> tickets are still available for the desired date?,tour_available
+How do I know if the <keyword> tickets for the date I want are still available?,tour_available
+How can I know if <keyword> tickets are still available?,tour_available
+How can I know if <keyword> tickets are still available?,tour_available
+I want to know if <keyword> tickets are still available.,tour_available
+Hi! How can I know if <keyword> tickets for the date I want are still available?,tour_available
+I want to know if <keyword> tickets are still available.,tour_available
+How can I know if the tickets I want are still available?,tour_available
+How do I know if the <keyword> tickets for the date I want are still available?,tour_available
+How can I know if <keyword> tickets are still available?,tour_available
+How can I know if <keyword> tickets are still available?,tour_available
+How can I know if <keyword> tickets are still available for the desired date?,tour_available
+I want to know if <keyword> tickets are still available.,tour_available
+How can I know if <keyword> tickets for the date I want are still available?,tour_available
+How can I know if <keyword> is still available for the desired date?,tour_available
+How can I know if <keyword> is still available?,tour_available
+I want to know if <keyword> is still available.,tour_available
+How do I know if <keyword> for the date I want is still available?,tour_available
+I want to know if <keyword> is still available.,tour_available
+I don't know if <keyword> is still available.,tour_available
+How can I know if <keyword> is still available?,tour_available
+How can I know if <keyword> for the date I want are still available?,tour_available
+How can I know if <keyword> is still available for <date>?,tour_available
+How can I know if <keyword> is still available?,tour_available
+I want to know if <keyword> is still available.,tour_available
+I want to know if <keyword> is still available.,tour_available
+I don't know if <keyword> is still available.,tour_available
+How can I know if <keyword> is still available?,tour_available
+How do I know if <keyword> for <date> I want to be always available?,tour_available
+How can I know if <keyword> for <date> I want are still available?,tour_available
+How can I know if <keyword> is still available for <date>?,tour_available
+How can I know if <keyword> is still available?,tour_available
+I don't know if <keyword> is still available.,tour_available
+How do I know if <keyword> for <date> are still available?,tour_available
+I don't know if <keyword> for <date> are still available.,tour_available
+I don't know if <keyword> is still available.,tour_available
+How can I know if <keyword> is still available?,tour_available
+How can I know if <keyword> for <date> are still available?,tour_available
+<keyword> available between <date> and <date>?,tour_available
+<keyword> is available between <date> and <date>.,tour_available
+Is it possible to get <keyword> between <date> and <date>?,tour_available
+Is it possible to get <keyword> between <date> and <date>?,tour_available
+<keyword> is available between <date> and <date>.,tour_available
+<keyword> available between <date> and <date> ?,tour_available
+<keyword>— available between <date> to <date> ?,tour_available
+<keyword> available between <date> and <date>?,tour_available
+Is it possible to get <keyword> between <date> and <date>?,tour_available
+Is it possible to get <keyword> between <date> and <date>?,tour_available
+<keyword> is available between <date> and <date>.,tour_available
+Is it possible to find <keyword> between <date> and <date>?,tour_available
+Is it possible to get <keyword> between <date> and D05?,tour_available
+<keyword> available between <date> to <date>?,tour_available
+<keyword> available between <date> and <date>?,tour_available
+Is it possible to get <keyword> between <date> and <date>?,tour_available
+Is it possible to get <keyword> between <date> and <date>?,tour_available
+<keyword> is available between <date> and <date>.,tour_available
+Is it possible to find <keyword> between <date> and <date>?,tour_available
+Is it possible to get <keyword> between <date> and D05?,tour_available
+<keyword> available between <date> to <date>?,tour_available
+I would like to get a quote for <keyword> for adults.,tour_available
+Hello. Wish to get a quote for <keyword> for <number_of_people> adults <date> please,tour_available
+Please let me know if I can get a quote for <keyword> for adults.,tour_available
+Please let me know if I can get a quote for <keyword> for <number_of_people> adults.,tour_available
+I would like to get a quote for <keyword> for <number_of_people> adults.,tour_available
+Hi. liked to receive an offer for <keyword> for <number_of_people> adults <date> please,tour_available
+Please let me know if I can get a quote for <keyword> for <number_of_people> adults.,tour_available
+Hi. would like to get a quote for <keyword> for <number_of_people> adults <date> please,tour_available
+Looking for last minute <keyword> for people.,tour_available
+Last minute search <keyword> for <number_of_people> persons,tour_available
+Looking for a last minute deal.,tour_available
+Last minute <keyword> for people.,tour_available
+Looking for Last Minute <keyword> for <number_of_people> persons,tour_available
+Looking for last minute people.,tour_available
+Looking for last minute <keyword>.,tour_available
+Looking for last minute <keyword> for <number_of_people> people,tour_available
+The <keyword> is available on <date>.,tour_available
+There is a <keyword> available on <date>.,tour_available
+is the <keyword> on <date> available other time than <time>,tour_available
+There is a <keyword> on <date>.,tour_available
+There is a <keyword> on <date>.,tour_available
+"the <keyword> is available on <date>, other than <time>",tour_available
+Is the <keyword> on D05 available other times?,tour_available
+is the <keyword> on <date> available other time than <time>,tour_available
+What are the tour dates in <month>?,tour_available
+What are the dates of the <keyword> tour?,tour_available
+What are the dates for the <keyword> Tour in <month>?,tour_available
+What are the dates of the <keyword> visit available in <month>?,tour_available
+What dates are available for the <keyword> tour?,tour_available
+The <keyword> tour is available in <month>.,tour_available
+What are the dates of the <keyword> tour?,tour_available
+What dates is the <keyword> tour available in <month>?,tour_available
+Is visit <keyword> available in <location>?,tour_available
+Is there a tour in <location>?,tour_available
+Is the <keyword> tour available in the area?,tour_available
+Is the <keyword> tour available in the area?,tour_available
+Is the <keyword> Tour available in <location>?,tour_available
+Can you tell me if the <keyword> tour is available in <location>?,tour_available
+Is the <keyword> tour available?,tour_available
+Is the <keyword> tour available in <location>?,tour_available
+What are the dates for the tour?,tour_available
+The <keyword> tour has dates available.,tour_available
+What are the tour dates?,tour_available
+What are some of the tour dates?,tour_available
+What dates are available for the <keyword> Tour?,tour_available
+What are the dates available for the <keyword> tour?,tour_available
+There are some dates for the <keyword> tour.,tour_available
+What dates are available for the <keyword> tour?,tour_available
+The <keyword> tour can be found in <month>.,tour_available
+When is the <keyword> visit available in <month>?,tour_available
+When is the <keyword> Tour available in <month>?,tour_available
+The <keyword> tour can be found in <month>.,tour_available
+The <keyword> tour is available in <month>.,tour_available
+There is a tour in <month>.,tour_available
+The <keyword> tour is available in <month>.,tour_available
+When is the <keyword> tour available in <month>?,tour_available
+I wanted to know if the <keyword> was open on <date>?,tour_available
+Do you know if the <keyword> will be open?,tour_available
+I'd like to know if the <keyword> will be open on <date>?,tour_available
+I would like to know if the <keyword> will open.,tour_available
+I would like to know if the <keyword> will be open.,tour_available
+I want to know if the <keyword> will be open.,tour_available
+I would like to know if the <keyword> will be open.,tour_available
+I would like to know if the <keyword> will be open on <date>?,tour_available
+I need your help to confirm if there are tickets for <keyword> on <date>.,tour_available
+I want to know if there are any tickets available for <keyword> on <date>.,tour_available
+Could you help me confirm if there are tickets to <keyword> on <date>,tour_available
+I would like to know if there are any tickets available for <keyword> on <date>.,tour_available
+I would like to know if there are tickets available for <keyword> on <date>.,tour_available
+Could you help me determine if there are maps for <keyword> on <date>?,tour_available
+I need your help to confirm if there are tickets available for <keyword>.,tour_available
+could you help me to confirm if there are available tickets for <keyword> on <date>,tour_available
+Do you own the <keyword>?,tour_available
+Do you own the <keyword>?,tour_available
+Do you own this?,tour_available
+Do you have a <keyword>?,tour_available
+Do you have this <keyword>?,tour_available
+Do you own a <keyword>?,tour_available
+Do you have this <keyword>?,tour_available
+Can you tell me if you have this <keyword> in <location>?,tour_available
+Do you have this in <location>?,tour_available
+Do you have this <keyword> in <location>?,tour_available
+Do you own this <keyword>?,tour_available
+Can you tell me if you have this in <location>?,tour_available
+Do you own this <keyword>?,tour_available
+Do you have this <keyword> in <location>?,tour_available
+Is the <keyword> tour available?,tour_available
+Is the <keyword> Tour available on <date>?,tour_available
+Is the <keyword> tour available in the area?,tour_available
+Is the <keyword> tour available on <date>?,tour_available
+Is the <keyword> tour available?,tour_available
+Is the <keyword> tour available on <date>?,tour_available
+Is the <keyword> visit available on <date>?,tour_available
+Is the <keyword> tour available on <date>?,tour_available
+Do you own this <keyword> in <location>?,tour_available
+Do you have this <keyword> in <location> on <date>?,tour_available
+Do you have the <keyword> in <location>?,tour_available
+Do you have this in <location>?,tour_available
+Do you have the <keyword> in <location>?,tour_available
+Can you tell me if you have this in <location> on <date>?,tour_available
+Do you have this <keyword> in <location> on <date>?,tour_available
+I would like to cancel the tour confirmation code that I booked.,tour_cancel
+I would like to cancel the tour confirmation code.,tour_cancel
+I want to cancel the tour confirmation code <confirmation_code>.,tour_cancel
+"I've reserved a <confirmation_code> visit confirmation code, but I'd like to cancel it.",tour_cancel
+I would like to cancel the tour confirmation code <confirmation_code>.,tour_cancel
+I would like to cancel my tour confirmation code.,tour_cancel
+"I booked a tour confirmation code 1117, but I liked to cancel it.",tour_cancel
+"I booked a tour confirmation code <confirmation_code>, but I would like to cancel it.",tour_cancel
+How can I stop my tour?,tour_cancel
+"I have to cancel my tour, how can I do that?",tour_cancel
+"I need to cancel my turn, how can I do that?",tour_cancel
+How can I cancel my tour?,tour_cancel
+"I need to cancel my tour, how do I do that?",tour_cancel
+I have to cancel my tour. How can I do that?,tour_cancel
+"I need to cancel my tour, how can I do that?",tour_cancel
+"I need to cancel my tour, how can I do that?",tour_cancel
+I need to rearrange my tour.,tour_cancel
+I have a tour that I need to change.,tour_cancel
+My tour needs to be changed.,tour_cancel
+I have to change my tour.,tour_cancel
+I need to change my tour.,tour_cancel
+I need to reprogram my turn.,tour_cancel
+I have to replan my tour.,tour_cancel
+I need to reschedule my tour,tour_cancel
+How much is it for C029 on <date>?,tour_inquiry
+How much is <keyword> for <number_of_people>?,tour_inquiry
+Can you tell me how much <keyword> is for C029 on <date>?,tour_inquiry
+Can you tell me how much <keyword> is for <number_of_people>?,tour_inquiry
+Can you tell me how much <keyword> is for <number_of_people>?,tour_inquiry
+How much is <keyword> for <number_of_people> on <date>?,tour_inquiry
+How much is <keyword> is for <number_of_people> on <date>?,tour_inquiry
+What is the tour name?,tour_inquiry
+What is the name of the <keyword> tour?,tour_inquiry
+What is the name of the <keyword> tour?,tour_inquiry
+What is <tour_parameter> of the <keyword> Tour?,tour_inquiry
+What is <tour_parameter> of the <keyword> turner?,tour_inquiry
+What is the tour called <keyword>?,tour_inquiry
+What is the name of the tour?,tour_inquiry
+What is <tour_parameter> of <keyword> tour?,tour_inquiry
+"Is it just to book the reservation and pay for the meal, or is it for more than 300 people?",tour_inquiry
+"Hi, I'm trying to book <keyword> and it looks like it's 300/person. Is it just to book the reservation and then I have to pay for the meal?",tour_inquiry
+Is this just to book the reservation and pay for the meal?,tour_inquiry
+"Is it just to book the reservation and pay for the meal, or is it for more than one person?",tour_inquiry
+Is it just to book the reservation and pay for the meal?,tour_inquiry
+"Hello, I'm trying to book <keyword> and it looks like it's 300/person. Is that just to book the reservation and then I have to pay for the food?",tour_inquiry
+I'm trying to book <keyword> but it looks like it's 300 people and I have to pay for the meal.,tour_inquiry
+"Hi, i'm trying to book <keyword> and it looks like it's 300/person. Is this just to book the reservation and then I have to pay for the meal?",tour_inquiry
+Do you pick us up at the hotel?,tour_inquiry
+Are you going to pick up at the hotel?,tour_inquiry
+Do you pick up at the hotel?,tour_inquiry
+Are you picking up at the hotel? We stay at <hotel> at <location>,tour_inquiry
+Do you pick up your luggage at the hotel?,tour_inquiry
+Are you going to pick us up at the hotel?,tour_inquiry
+Are you staying at the hotel? We overnight in <hotel> at <location>,tour_inquiry
+Do you pick up at the hotel? We are staying in <hotel> at <location>,tour_inquiry
+Is it possible to pick up from the <location> for <keyword>?,tour_inquiry
+Is it possible to pick up from the <location> for <keyword>?,tour_inquiry
+Is there a pickup for <keyword>?,tour_inquiry
+Are there pickups from the <location> for <keyword>?,tour_inquiry
+Is it possible to pickup from the <location> for <keyword>?,tour_inquiry
+Is it possible to pickup from the <location> for <keyword>?,tour_inquiry
+Is there a collection from the <location> for <keyword> available?,tour_inquiry
+is there pickup from the <location> for <keyword> available?,tour_inquiry
+Does <keyword> offer pickup?,tour_inquiry
+Does <keyword> offer a pick-up at <location>?,tour_inquiry
+Does <keyword> offer pickup?,tour_inquiry
+Does <keyword> offer pickup at <location>?,tour_inquiry
+Does <keyword> offer a pickup?,tour_inquiry
+Does <keyword> offer pickup at <location>?,tour_inquiry
+Is <keyword> able to pick up at <location>?,tour_inquiry
+Does <keyword> offer pickup at <location>?,tour_inquiry
+Can a tour guide take us to <location>?,tour_inquiry
+Is it possible for a tour guide to pick us up?,tour_inquiry
+Can a guide pick us up at <location>?,tour_inquiry
+Can a tour guide pick us up at <location>?,tour_inquiry
+Is it possible for a tour guide to pick us up at <location>?,tour_inquiry
+Can a tour guide pick us up?,tour_inquiry
+A tour guide can pick us up.,tour_inquiry
+Can a tour guide pick us up at <location>?,tour_inquiry
+Please send me information if this visit is available with withdrawal from <hotel>,tour_inquiry
+Please email me if this tour is available with pickup.,tour_inquiry
+"If this tour is available with pickup, please let me know.",tour_inquiry
+"If this tour is available with pickup, please email me the information.",tour_inquiry
+"If this tour is available with pickup from <hotel>, please email me.",tour_inquiry
+Please email me information if this tour is available with pickup of <hotel>,tour_inquiry
+"If this tour is available with pickup, please email me.",tour_inquiry
+please email me information if this tour is available with pickup from <hotel>,tour_inquiry
+Could you tell me the details for <keyword>?,tour_inquiry
+I was wondering if you could give me the details for <keyword>.,tour_inquiry
+I would like to know the details for <keyword>.,tour_inquiry
+I need the details for <keyword>.,tour_inquiry
+I would like to know the details for <keyword>.,tour_inquiry
+I need the details for <keyword>.,tour_inquiry
+Can you provide me with the details for <keyword>,tour_inquiry
+Could you provide me the details for <keyword>,tour_inquiry
+Do you want to return the charge?,tour_inquiry
+Do you want to reimburse the charge?,tour_inquiry
+Will you reimburse the price?,tour_inquiry
+Do you want to get rid of the charge?,tour_inquiry
+Are you paying back the charge?,tour_inquiry
+Do you want to give back the charge?,tour_inquiry
+Do you want to get back the charge?,tour_inquiry
+Do you refund the charge?,tour_inquiry
+I don't know when I'll get my refund.,tour_inquiry
+When do I get my refund?,tour_inquiry
+When do I get my money back?,tour_inquiry
+When will I get my money back?,tour_inquiry
+I don't know when I'll get my money back.,tour_inquiry
+I don't know when I will get my money back.,tour_inquiry
+When do I get my refund?,tour_inquiry
+What is the policy of refunds?,tour_inquiry
+What is the policy about refunds?,tour_inquiry
+What is the policy regarding refunds?,tour_inquiry
+What is the policy on refunds?,tour_inquiry
+What is the refund policy?,tour_inquiry
+What is the policy for refunds?,tour_inquiry
+What is the refund policy?,tour_inquiry
+<keyword> available in <language>,tour_inquiry
+Is it available in <language>?,tour_inquiry
+Is it possible to find <keyword> in <language>?,tour_inquiry
+Is it possible to get <keyword> in <language>?,tour_inquiry
+Is it possible to get <keyword> in <language>?,tour_inquiry
+Is it possible to find <keyword> in <language>?,tour_inquiry
+Is <keyword> available in <language>,tour_inquiry
+Is <keyword> available in <language>,tour_inquiry
+I don't know what to bring with me for the tour.,tour_inquiry
+I don't know what I need to bring with me for the tour.,tour_inquiry
+What do I have to bring for the <keyword> tour?,tour_inquiry
+What should I bring with me on the tour?,tour_inquiry
+What should I bring with me for the <keyword>?,tour_inquiry
+What should I bring for the tour?,tour_inquiry
+What should I bring with me for the tour?,tour_inquiry
+What do I need to bring with me for <keyword> tour?,tour_inquiry
+Are kids allowed on the tour?,tour_inquiry
+Children are allowed on the tour.,tour_inquiry
+Is kids allowed on the tour?,tour_inquiry
+Are children allowed on <keyword> tour?,tour_inquiry
+Kids are allowed on the tour.,tour_inquiry
+Are children allowed to turn <keyword>?,tour_inquiry
+There are kids on the tour.,tour_inquiry
+Are kids allowed on <keyword> tour?,tour_inquiry
+Lunch is not included in the tour.,tour_inquiry
+Is it included in the tour?,tour_inquiry
+Is lunch part of the tour?,tour_inquiry
+Lunch is included in the tour.,tour_inquiry
+Is lunch included in the tour?,tour_inquiry
+Is lunch included in the visit?,tour_inquiry
+Is lunch included in tour?,tour_inquiry
+Is food included in the tour?,tour_inquiry
+Is it included in the tour?,tour_inquiry
+Is there food in the tour?,tour_inquiry
+Is food included in the turntable?,tour_inquiry
+Is food part of the tour?,tour_inquiry
+Is there food on the tour?,tour_inquiry
+Is food included in tour?,tour_inquiry
+Is there a place where we will be picked up?,tour_inquiry_pick_up
+Is there a physical address where we'll be picked up?,tour_inquiry_pick_up
+Where will we be picked up?,tour_inquiry_pick_up
+Is there an address where we will be picked up?,tour_inquiry_pick_up
+Is there a physical address or will we be picked up?,tour_inquiry_pick_up
+Is it a physical address where we will be picked up?,tour_inquiry_pick_up
+Is there a location where we will be picked up?,tour_inquiry_pick_up
+Is there a physical address where we will be picked up?,tour_inquiry_pick_up
+It just seems a little blurry or meeting.,tour_inquiry_pick_up
+It's a little unclear where to meet.,tour_inquiry_pick_up
+It seems like it's not clear where to meet.,tour_inquiry_pick_up
+It just seems a little unclear where you can meet.,tour_inquiry_pick_up
+It's not clear where to meet.,tour_inquiry_pick_up
+It doesn't seem to be clear where to meet.,tour_inquiry_pick_up
+It seems like it's unclear where to meet.,tour_inquiry_pick_up
+It just seems a little unclear where to meet.,tour_inquiry_pick_up
+Where does A012 meet?,tour_inquiry_pick_up
+What is the location of <tour> meet?,tour_inquiry_pick_up
+Where does <tour> meet?,tour_inquiry_pick_up
+Where do A014 and A014 meet?,tour_inquiry_pick_up
+Where does A014 meet?,tour_inquiry_pick_up
+Where's <tour>?,tour_inquiry_pick_up
+Where does <tour> meet?,tour_inquiry_pick_up
+Is the pick-up included?,tour_inquiry_pick_up
+Is collection included?,tour_inquiry_pick_up
+Is pick-up included?,tour_inquiry_pick_up
+Is it included?,tour_inquiry_pick_up
+Pick-up is included.,tour_inquiry_pick_up
+Is it included in the price?,tour_inquiry_pick_up
+Is pick-up included?,tour_inquiry_pick_up
+I am a tour guide in <location> and I was wondering if there was a way I could offer my tours on your website.,tour_offer
+I am a tour guide in <location> and I was wondering if there is a way I can offer my tours on your website.,tour_offer
+"Hello <name>! Thank you, I am a tour guide in <location> and I was wondering if there was a way I can offer my visits to your website",tour_offer
+I am a tour guide and I was wondering if there is a way I can offer my tours on your website.,tour_offer
+"Hello <name>! Thank you very much, I am a travel guide in <location> and I wondered if there is a way I can offer my tours on your website",tour_offer
+I am a tour guide and I was wondering if there was a way I could offer my tours on your website.,tour_offer
+I am a tour guide in <location> and I am wondering if there is a way I can offer my tours on your website.,tour_offer
+"Hi <name>! Thank you, I am a tour guide in <location> and I was wondering if there is a way I can offer my tours on your website",tour_offer
+I am a tour guide in <location> and I was wondering if there was a way I could offer my tours on your website.,tour_offer
+I am a tour guide in <location> and I was wondering if there is a way I can offer my tours on your website.,tour_offer
+Hello <name>! I am a tour guide in <location> and I was wondering if there was any way I could offer my visits to your website,tour_offer
+I am a tour guide and I am wondering if there is a way I can offer my tours on your website.,tour_offer
+I am a tour guide and I was wondering if there was a way I could offer my tours on your website.,tour_offer
+Hello <name>! I am a tour guide in <location> and wondered if there is a way to offer my tours on your website.,tour_offer
+I am a tour guide in <location> and I am wondering if there is a way I can offer my tours on your website.,tour_offer
+Hi <name>! I am a tour guide in <location> and I was wondering if there is a way I can offer my tours on your website,tour_offer
+There are new tours we have available.,tour_offer
+New tours are available.,tour_offer
+There are new tours available.,tour_offer
+There are new tours that we have available.,tour_offer
+We have new tours available,tour_offer
+There are new tours out there.,tour_offer
+We have new visits available,tour_offer
+We have new tours available,tour_offer
+Information on the tour is not correct.,tour_offer
+Information on a tour is not correct.,tour_offer
+Information about the tour is not correct,tour_offer
+The information on the tour is not correct.,tour_offer
+The information on the turn is not correct,tour_offer
+Information on the tour is incorrect.,tour_offer
+Information on the tour isn't correct.,tour_offer
+Information on tour is not correct,tour_offer

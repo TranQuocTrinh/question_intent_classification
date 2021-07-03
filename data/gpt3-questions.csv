@@ -1,0 +1,57 @@
+Utterance,Intent
+Can I change my username?,account_information
+Can I change my password?,account_information
+Can I delete my account?,account_information
+How can I change my email address?,account_information
+I need tickets for this tour.,book_tour
+I want to book tickets for this tour.,book_tour
+London has a lot of restaurants. What is your favorite?,generic_request
+I like to eat out. Where is a good place to eat dinner?,generic_request
+Where is a romantic place to eat dinner?,generic_request
+What kind of food in London?,generic_request
+I need help.,needs_assistance
+May I speak to a representative?,needs_assistance
+Can I speak to a human?,needs_assistance
+I want to talk to someone.,needs_assistance
+I'm having trouble.,needs_assistance
+I want to do something fun this weekend.,recommend_activity
+What are the best activities for families with kids in London?,recommend_activity
+Please recommend me some places to visit in London?,recommend_activity
+Can you recommend me a nice cafe to visit?,recommend_activity
+What are the best activities for couples in London?,recommend_activity
+Can you recommend me some fun things to do?,recommend_activity
+Where is the best place to go for a date?,recommend_activity
+Show me best food locations,recommend_poi
+Show me best shopping locations,recommend_poi
+I want to see hidden gems,recommend_poi
+I want to see unique locations,recommend_poi
+I want to see cool locations,recommend_poi
+I want to see touristy locations,recommend_poi
+I want to see crowded locations,recommend_poi
+I want to see popular locations,recommend_poi
+I want to see historic locations,recommend_poi
+I need to change the delivery address,reservation_inquiry
+"I have a problem with my order, how can i solve this?",reservation_inquiry
+"I have a problem with my order, what can I do?",reservation_inquiry
+Can you change my order status?,reservation_inquiry
+Please explain what is the cancellation policy?,reservation_regulations
+What if I need to cancel?,reservation_regulations
+Is it possible to have a refund if I cannot attend?,reservation_regulations
+If I cancel can I have a refund?,reservation_regulations
+Please explain what is the refund policy?,reservation_regulations
+Please explain if we cancel or don't attend is there a refund?,reservation_regulations
+What if I need to cancel?,reservation_regulations
+I am still waiting for my reservation to be processed.,reservation_update_request
+I am trying to figure out when my order will ship.,reservation_update_request
+I am trying to figure out if my reservation is confirmed.,reservation_update_request
+Is it possible to pay by credit card at Mirazur?,restaurant_inquiry
+Is Mirazur a good restaurant to visit with my family?,restaurant_inquiry
+What are the best restaurants to visit near Mirazur?,restaurant_inquiry
+How can I contact Mirazur restaurant?,restaurant_inquiry
+"I am coming to Mirazur with my family, can I get a table if I make a reservation in advance?",restaurant_inquiry
+What is the dress code at Mirazur?,restaurant_inquiry
+I need to reschedule my tour.,tour_cancel
+"I need to cancel my tour, how can I do that?",tour_cancel
+"I booked a tour confirmation code 100, but I would like to cancel it.",tour_cancel
+Tour is not active or has not started yet,tour_offer
+Tour dates are incorrect,tour_offer

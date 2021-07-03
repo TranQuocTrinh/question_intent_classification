@@ -1,0 +1,40 @@
+Utterance,Intent
+What is my username?,account_information
+How to find username?,account_information
+I am interested in booking the <keyword>,book_tour
+I would like to book <keyword> for <date>,book_tour
+Show me top attractions <location>.,"describe_location, recommend_poi"
+Are there any toll roads on the way to <location>?,generic_request
+Can I talk to someone?,needs_assistance
+Find me some <keyword> that's available  on <date> in <location>,recommend_activity
+Find me some <keyword> that's under <budget> and available  on <date> in <location>,recommend_activity
+Show me some <keyword> that's under <budget> and available  on <date> in <location>,recommend_activity
+What are things to do under <budget>?,recommend_activity
+I want to book the <keyword> for <date> in <location> for <number_of_people>,"recommend_activity, recommend_poi"
+Can you please assist to quote for the following <keyword>,"recommend_activity, recommend_poi"
+Show me less crowded locations,recommend_poi
+I'm looking for festivals,recommend_poi
+Where is <keyword> festival?,recommend_poi
+I need the bill copy of a purchase made by my boss.,reservation_inquiry
+I need the bill copy of a purchase.,reservation_inquiry
+Is this a sure reservation?,reservation_regulations
+Please explain if you are unable to secure reservation do you do a full refund?,reservation_regulations
+I am trying to figure out if my reservation is confirmed.,reservation_update_request
+I want to make a reservation for <number_of_people> for <lunch_or_dinner> on <date> <time> at <restaurant>,restaurant_inquiry
+I successfully made a reservation with a restaurant in <location> but there's no actual time on the booking?,restaurant_inquiry
+"Hi, if I would like to make a reservation to <restaurant>, any down payment needed?",restaurant_reservation_regulations
+are there any tickets on the <date>,tour_available
+I am looking for <transportation> for <duration> in <location> covering nearby sites and going up to <location>,tour_available
+"Hello, is <keyword> still available for <date>?",tour_available
+Need information and pricing for a small group of <number_of_people> for a <duration> <keyword> of <location> and <location>. Please advise. We're staying at <hotel> in <location>.,tour_available
+we need to book for <keyword> for <date> for <number_of_people>,tour_available
+Can I cancel the the tour confirmtion code <confirmation_code>?,tour_cancel
+I would like a tour for <keyword> festival,tour_inquiry
+I want more details on <keyword> tour,tour_inquiry
+"Hi, what happens if I don't get the reservation on an order?
+",tour_inquiry
+"What happens if I don't get the reservation on an order?
+",tour_inquiry
+When should I be ready for tour?,tour_inquiry_pick_up
+I would like to partner with your site,tour_offer
+I would like to partner with your app,tour_offer

@@ -1,0 +1,38 @@
+Utterance,Intent
+"I am locked out of my account, can you help?",account_information
+"I forgot my login information, can you help?",account_information
+"Please, book a <keyword> tour for <number_of_people> at <time>",book_tour
+I need <keyword> tickets for <date>,book_tour
+Tell me funny facts about <location>.,"describe_location, recommend_poi"
+What is the fastest way to get to <location>?,generic_request
+Hey!,needs_assistance
+We are looking for a tour <number_of_people> <location> <time>.,recommend_activity
+I want to book <keyword>,recommend_activity
+I want to book <restaurant>,recommend_activity
+I’m looking for the good <keyword> in <location> with budget around <budget> for <time>.,recommend_activity
+Show me the most <adjective> sites on tourmega,"recommend_activity, recommend_poi"
+I want to go <country>,"recommend_activity, recommend_poi"
+Show me hidden gems,recommend_poi
+Show me hidden locations,recommend_poi
+Locations with less people,recommend_poi
+I need to make a group reservation at <restaurant>,reservation_inquiry
+"I need the bill copy of a purchase made by my boss, can you help me?",reservation_inquiry
+we would like to make a reservation at <restaurant>. Why are we being charged to take a tour,reservation_regulations
+"Hi, if the request is not fulfilled for <restaurant>, will the cost be refunded?",reservation_regulations
+I sent an email to support about reservation <confirmation_code>,reservation_update_request
+Does <keyword> offer delivery?,restaurant_inquiry
+Need reservation for <number_of_people> at <restaurant> on <date> at <time>,restaurant_inquiry
+How expensive is <restaurant>?,restaurant_inquiry
+How can I know if <keyword> for <date> are still available?,tour_available
+<keyword>— available between <date> to <date> ?,tour_available
+<keyword> available between <date> to <date>?,tour_available
+<keyword> available between <date> to <date>?,tour_available
+Hi. would like to get a quote for <keyword> for <number_of_people> adults <date> please,tour_available
+Looking for last minute <keyword> for <number_of_people> people,tour_available
+is there pickup from the <location> for <keyword> available?,tour_inquiry
+Does <keyword> offer pickup at <location>?,tour_inquiry
+Can a tour guide pick us up at <location>?,tour_inquiry
+please email me information if this tour is available with pickup from <hotel>,tour_inquiry
+Could you provide me the details for <keyword>,tour_inquiry
+It just seems a little unclear where to meet.,tour_inquiry_pick_up
+Hi <name>! I am a tour guide in <location> and I was wondering if there is a way I can offer my tours on your website,tour_offer
