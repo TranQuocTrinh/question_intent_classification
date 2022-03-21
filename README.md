@@ -39,8 +39,7 @@ To generate more questions from original questions we use few augmentation techn
 
 ##### _Paraphrase_:
 
-I used Pharaphrase model inspired from Seq2seq model to paraphrase a question. I used HuggingFace public model for Pharaphrase from (
-pegasus_paraphrase)[https://huggingface.co/tuner007/pegasus_paraphrase].
+I used Pharaphrase model inspired from Seq2seq model to paraphrase a question. I used HuggingFace public model for Pharaphrase from [pegasus_paraphrase](https://huggingface.co/tuner007/pegasus_paraphrase).
 
 - For example: 
 ```
